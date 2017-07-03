@@ -6,6 +6,11 @@
 *.DS_Store
 *._DS_Store
 
+# Other random file types or Binary files
+*.h  #ignored - however a C-Bridging Header.h file is needed to compile this project
+*.m 
+
+
 #Graphics
 *.png
 *.jpg
