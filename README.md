@@ -1,5 +1,5 @@
 # Swift Colored Squares
-This project was my first ever attampt at OSX development in Swift 3. I created a simple *drawing* application for Mac. This project was only meant to me an experiment, and I found some requirements in order to attempt to meet them at the end.
+This project was my first ever attempt at OSX development in Swift 3. I created a simple *drawing* application for Mac. This project was only meant to me an experiment, and I found some requirements in order to attempt to meet them at the end.
 
 I allocated only 7 days in order to attempt this project. 
 
